@@ -1,2 +1,2 @@
 
-# Linear Legression : CGPA-->Package
+# Linear Regression : CGPA-->Package
